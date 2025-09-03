@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Korina
+🚀 I’m starting to build projects and will update this space soon.  
+
+📂 This repository will showcase my work as I learn and grow.  
+
+✨ Fun facts:  
+- Sketching helps me survive long debugging sessions🎨  
+- Rom-coms and Gintama are my daily dose of therapy. 🎬  
