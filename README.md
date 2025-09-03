@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Korina
+
 🚀 I’m starting to build projects and will update this space soon.  
 
 📂 This repository will showcase my work as I learn and grow.  
